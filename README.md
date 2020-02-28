@@ -7,3 +7,7 @@ https://docs.expo.io/versions/v36.0.0/
 https://alligator.io/react/react-native-redux/
 https://reactnative.dev/docs/tutorial
 https://alligator.io/react/react-native-navigation/
+
+
+10 - 11 : Started to follow tutorial but 20minutes in I realized it was quite dated. Following along with Youtube lessons. Installed Android Studio.
+https://www.youtube.com/watch?v=3Pm5_Cf7pQI&t=95s
