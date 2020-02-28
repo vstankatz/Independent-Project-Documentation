@@ -11,3 +11,6 @@ https://alligator.io/react/react-native-navigation/
 
 10 - 11 : Started to follow tutorial but 20minutes in I realized it was quite dated. Following along with Youtube lessons. Installed Android Studio.
 https://www.youtube.com/watch?v=3Pm5_Cf7pQI&t=95s
+
+11-12:30 : Continued working on youtube walkthough
+(Place link here to eventual tutorial repo)
