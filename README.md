@@ -15,4 +15,6 @@ https://www.youtube.com/watch?v=3Pm5_Cf7pQI&t=95s
 11-12:30 : Continued working on youtube walkthough
 (Place link here to eventual tutorial repo)
 
-1:30 - 3:15 : Continued building on the youtube walkthrough, also got bored and read into animating splash pages for a while. 
+1:30 - 3:15 : Continued building on the youtube walkthrough, also got bored and read into animating splash pages for a while.
+
+3:15 - 4:30 : Continued building on walkthrough, created functioning todo list with hooks. Installed Expo on phone and ran program.
